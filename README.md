@@ -1,5 +1,26 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Frontend applications using React and TypeScript, with a focus on clean architecture, responsiveness, and usability<br><br>Personal and academic projects that solve real-world problems and follow best engineering practices<br><br>👯 I’m looking to collaborate on<br><br>Frontend or full-stack projects involving React, Next.js, or modern UI frameworks<br><br>Open-source initiatives and student-led tech projects<br><br>🤝 I’m looking for help with<br><br>Scaling frontend applications and improving performance<br><br>Backend integration and API design best practices<br><br>🌱 I’m currently learning<br><br>Advanced React patterns and state management<br><br>Next.js and modern frontend tooling<br><br>UI animation, accessibility, and performance optimization<br><br>💬 Ask me about<br><br>JavaScript, TypeScript, and React<br><br>Frontend development, UI/UX principles, and responsive design<br><br>Project structuring and collaborative development workflows<br><br>⚡ Fun fact<br><br>I enjoy refining UI details and improving user experience as much as building core functionality
+🔭 I’m currently working on<br><br>
+Frontend applications using React and TypeScript, focused on clean architecture, responsiveness, and usability<br>
+Personal and academic projects that solve real-world problems<br><br>
+
+👯 I’m looking to collaborate on<br><br>
+Frontend or full-stack projects using React or Next.js<br>
+Open-source and student-led tech initiatives<br><br>
+
+🤝 I’m looking for help with<br><br>
+Scaling frontend applications and improving performance<br>
+Backend integration and API design best practices<br><br>
+
+🌱 I’m currently learning<br><br>
+Advanced React patterns and state management<br>
+Next.js, accessibility, UI animation, and performance optimization<br><br>
+
+💬 Ask me about<br><br>
+JavaScript, TypeScript, and React<br>
+Frontend development, UI/UX, and responsive design<br><br>
+
+⚡ Fun fact<br><br>
+I enjoy refining UI details and improving user experience as much as building core functionality
 
 
 ## 🌐 Socials:
